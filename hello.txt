@@ -1,3 +1,2 @@
 "hello add"
 "welcome from local repo"
-"welcome from branch2"
